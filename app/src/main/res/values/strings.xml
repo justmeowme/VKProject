@@ -1,0 +1,4 @@
+<resources>
+    <integer name="com_vk_sdk_AppId">7983308</integer>
+    <string name="app_name">VKProjectFinalLast6</string>
+</resources>
